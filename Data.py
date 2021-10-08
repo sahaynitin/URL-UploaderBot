@@ -30,7 +30,18 @@ Made With 💕 By @Tellybots_4u
 
     # Help Message
     HELP = """
-Just send me the media and you will get the link!
+I am UrL Uploader Bot
+    
+1. Send url Link|New Name with Extension.
+
+2. Send Custom Thumbnail (Optional).
+
+3. Select the button.
+
+   SVideo - Give File as video with Screenshots
+   Dfile   - Give File with Screenshots
+   Video  - Give File as video without Screenshots
+   File  - Give File without Screenshots
 
  **Available Commands** 
 
